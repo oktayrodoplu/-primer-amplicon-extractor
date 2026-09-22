@@ -4,6 +4,10 @@ A Python command-line tool for extracting primer-defined amplicons from nucleoti
 
 The program searches both orientations of user-defined forward and reverse primers, allows a configurable number of mismatches, evaluates primer orientation, extracts the internal sequence between primer-binding sites, applies a user-defined length filter, and reports group-level amplicon attrition.
 
+## Workflow
+
+![Primer-based Amplicon Extraction Pipeline](workflow.png) 
+
 ## Features
 
 - Searches both orientations of forward and reverse primers
